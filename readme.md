@@ -1,0 +1,2 @@
+# Collapsed Journey Board
+This project is a web application designed as part of the final round of interviews with DeepThought Edutech Ventures. It demonstrates my skills in web development, including HTML, CSS, and JavaScript, showcasing a dynamic interface for managing technical projects. The project features a collapsed journey board with interactive elements such as dynamic content updates and expandable sections. It serves as a practical example of my ability to create engaging and functional web applications.
